@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-rails ruby '2.0.0'
-gem 'rails', '4.0.3'
+ruby '2.0.0'
+gem 'rails', '4.0.0'
 # Rails defaults
 gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.0'
